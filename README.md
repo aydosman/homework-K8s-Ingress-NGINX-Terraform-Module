@@ -81,8 +81,6 @@ Measurements are collected over time a specified amount of time, such as one yea
 | Metric                 | Value [SLI] | Mesured in [Rate] |
 |------------------------|-------------|-------------------|
 |                        |             |                   |
-| Budget Consumption     | 85% of X    | Time/Scale/Cost   |
-|                        |             |                   |
 | On-Call Responsiveness | 98%         | Time/Action       |
 | Staff Responsiveness   | 69.00%      | Time/Action       |
 |                        |             |                   |
