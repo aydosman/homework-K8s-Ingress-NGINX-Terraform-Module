@@ -40,7 +40,7 @@ The diagram is an abstract representation of the service.
   - Terminate SSL / TLS
   - Name-based virtual hosting.
   
-# Example: Hosting an externally facing service with multiple sub-services with 6h of peek activity in two peeks 24/7/365
+# Example: Hosting an externally facing service with multiple sub-services with 6h of peek activity in two increments 24/7/365
 
 ## SRE Team: High Level Activities
 
