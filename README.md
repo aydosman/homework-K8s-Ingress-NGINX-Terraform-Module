@@ -30,7 +30,7 @@ graph TD
 
 The diagram is an abstract representation of the service.
 
-## Service Continued
+## Continued
 
 - Nginx is a cloud-agnostic service that includes an enterprise-grade service and addons that allow a clear line of sight to apps in development, test, or production. With per-app analytics, you the operator gain new insights into app performance and reliability. This allows you to  pinpoint performance issues before they impact production.
 - The ingress controller specifically is responsible for fulfilling the ingress, usually with a load balancer, it may also configure your edge or additional frontends to help control the flow of traffic.
