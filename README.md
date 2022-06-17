@@ -81,7 +81,5 @@ Measurements are collected over time a specified amount of time, such as one yea
 |------------------------|-------------|-------------------|
 |                        |             |                   |
 | On-Call Responsiveness | 98%         | Time/Action       |
-| Staff Responsiveness   | 69.00%      | Time/Action       |
 |                        |             |                   |
-| Internal Escalations   | 66.00%      | Time/Action       |
 | External Escalations   | 98.00%      | Time/Action       |
