@@ -72,10 +72,6 @@ Measurements are collected over time a specified amount of time, such as one yea
 | Throughput   | 75%         | MBps              | 6h a day acceptable high throughput | 100MBps          | 1MBps            |                         |
 | Availability | 99.70%      | Time              | 4min a days downtime 1days a year  | 5mins            | 1min             | 99.65%                  |
 | Error Rate   | 99.45%      | E/ps              | 8mins a day 2 days a year          | 10mins           | 1min             |                         |
-
-| Metric             | Value [SLI] | Mesured in [Rate] | Notes                           | Upper Limit[SLO] | Lower Limit[SLO] | Customer Agreement[SLA] |
-|--------------------|-------------|-------------------|---------------------------------|------------------|------------------|-------------------------|
-|                    |             |                   |                                 |                  |                  |                         |
 | Budget Consumption | 85% of X    | Time/Scale/Cost   | +-15% for scaling during peek | 15%              | -15%             |                         |
 
 | Metric                 | Value [SLI] | Mesured in [Rate] |
