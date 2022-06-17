@@ -15,7 +15,7 @@ note: The team and I do not support any production services directly and it woul
 - Name: **terraform-lnrs-k8s-ingress-nginx** [Gitlab](https://gitlab.b2b.regn.net/terraform/official-modules/k8s/terraform-lnrs-k8s-ingress-nginx/)
 - Kind: Terraform Module
 - Summary: The module creates a NGINX Ingress Controller backed by a cloud load balancer on a Kubernetes cluster that has been created by using either the AWS or Azure Kubernetes modules.
-- Support: Prikesh Patel, Dan Sossick, Peter Barr, Aydogan Osman snd James Miller
+- Support: Prikesh Patel, Dan Sossick, Peter Barr, Aydogan Osman and James Miller
 
 ```mermaid
 graph TD
